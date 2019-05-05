@@ -37,8 +37,7 @@ public class Calculator {
     }
     public static int add(int x, int y)
     {
-    	int result;
-    	result=x+y;
+    	int result=x+y;
 //        write your code here 
     	
         return result;
